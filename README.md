@@ -1,6 +1,6 @@
 
 <div align="left">
-<h1>hello world, i'm nuno! </h1>
+<h2>hello world, i'm nuno! </h2>
 </div>
 
 <ul>
