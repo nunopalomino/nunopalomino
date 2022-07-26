@@ -5,11 +5,7 @@
 </div>
 
 <h2>📌  About me</h2>
-<ul>
-  <li>
-  <li>
-  <li>       
-</ul>
+<p>Full-stack developer focused on Front-end, with over 4 years of experience in the web development field. Currently studying Computer Science. </p>
 
 <h2>🎨  My skills</h2>
 <div align="center">
@@ -21,7 +17,6 @@
 <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
 <br>
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=nunopalomino&show_icons=true&theme=gruvbox">
