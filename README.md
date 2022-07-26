@@ -1,7 +1,6 @@
 
 <div align="left">
 <h1>hello world, i'm nuno! </h1>
-<img height="300em" src="https://media.discordapp.net/attachments/828075838259331093/951318204448391178/tumblr_mqu238Cng11rfw7flo1_400_1.gif">
 </div>
 
 <ul>
