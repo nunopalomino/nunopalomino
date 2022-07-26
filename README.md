@@ -19,7 +19,7 @@
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 <br>
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=nunopalomino&show_icons=true&theme=gruvbox">
+<img src="https://github-readme-stats.vercel.app/api?username=nunopalomino&show_icons=true&theme=tokyonight">
 </div>
 
 <h2>📫 Connect with me:</h2>
