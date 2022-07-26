@@ -5,9 +5,7 @@
 </div>
 
 <h2>📌  About me</h2>
-<p align="center">Full-stack developer focused on Front-end, with over 4 years of experience in the web development field.
- <br>
- Currently studying Computer Science. </p>
+<p align="center">Full-stack developer focused on Front-end, with over 4 years of experience in the web development field.</p>
 
 <h2>🎨  My skills</h2>
 <div align="center">
