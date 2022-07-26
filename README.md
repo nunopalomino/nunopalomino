@@ -1,14 +1,16 @@
 
-<div align="center">
-<h1>Hello World, I'm Nuno! 👩🏻‍💻</h1>
+<div align="left">
+<h1>hello world, i'm nuno! </h1>
 <img height="300em" src="https://media.discordapp.net/attachments/828075838259331093/951318204448391178/tumblr_mqu238Cng11rfw7flo1_400_1.gif">
 </div>
 
-<h2>📌  About me</h2>
-<p align="center">Full-stack developer focused on Front-end, with over 4 years of experience in the web development field.</p>
+<ul>
+ <li>desenvolvedor full-stack com foco em front</li>
+ <li>atualmente estudando ciência da computação</li>
+</ul>
 
-<h2>🎨  My skills</h2>
-<div align="center">
+<h2>skills</h2>
+<div align="left">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -22,8 +24,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=nunopalomino&show_icons=true&theme=tokyonight">
 </div>
 
-<h2>📫 Connect with me:</h2>
-<div align="center">
+<h2> connect with me</h2>
+<div align="left">
  <a href="https://www.linkedin.com/in/nuno-palomino/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:nunopalomino@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
