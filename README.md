@@ -4,7 +4,7 @@
 </div>
 
 <ul>
- <li>desenvolvedor full-stack com foco em front</li>
+ <li>desenvolvedor full-stack </li>
  <li>atualmente estudando ciência da computação</li>
 </ul>
 
