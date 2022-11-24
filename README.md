@@ -5,7 +5,7 @@
 
 <ul>
  <li>Desenvolvedor full-stack.</li>
- <li>Atualmente estudando ciência da computação.</li>
+ <li>Atualmente estudando Ciência da Computação.</li>
 </ul>
 
 <h2>Skills</h2>
