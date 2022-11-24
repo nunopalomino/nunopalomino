@@ -1,14 +1,14 @@
 
 <div align="left">
-<h2>hello world, i'm nuno! </h2>
+<h2>Hello world, I'm Nuno! </h2>
 </div>
 
 <ul>
- <li>desenvolvedor full-stack </li>
- <li>atualmente estudando ciência da computação</li>
+ <li>Desenvolvedor full-stack.</li>
+ <li>Atualmente estudando ciência da computação.</li>
 </ul>
 
-<h2>skills</h2>
+<h2>Skills</h2>
 <div align="left">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -23,7 +23,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=nunopalomino&show_icons=true&theme=tokyonight">
 </div>
 
-<h2> connect with me</h2>
+<h2>Connect with me</h2>
 <div align="left">
  <a href="https://www.linkedin.com/in/nuno-palomino/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:nunopalomino@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
