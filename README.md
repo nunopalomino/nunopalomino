@@ -1,29 +1,41 @@
 
 <div align="left">
-<h2>Hello world, I'm Nuno! </h2>
-</div>
+ 
 
-<ul>
- <li>Desenvolvedor full-stack.</li>
- <li>Atualmente estudando Ciência da Computação.</li>
-</ul>
+ ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About me...  
 
-<h2>Skills</h2>
+ ```javascript
+
+const nuno = {
+  location: "Sorocaba, São Paulo, Brasil",
+  technologies: {
+    frontend: ["HTML", "CSS", "SASS", "JavaScript", "TypeScript", "ReactJS"],
+    backend: ["Express", "Nodejs", "Prisma"],
+    database: ["MongoDB", "PostgreSQL", "MySQL", "SQLite"],
+    devops: ["Docker", "GitHub", "AWS"]
+  },
+  learning: [".Net", "Python"],
+  catchphrase: "A UFO party! :D"
+}
+ ```
+ 
+ ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
+ 
+
+ 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Where to find me
+
+[![Linkedin: nunopalomino](https://img.shields.io/badge/-nunopalomino-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/nunopalomino/)
+ 
+ ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Stats
+ 
 <div align="left">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB">
-<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-<br>
-<br>
-<img src="https://github-readme-stats.vercel.app/api?username=nunopalomino&show_icons=true&theme=tokyonight">
-</div>
 
-<h2>Connect with me</h2>
-<div align="left">
- <a href="https://www.linkedin.com/in/nuno-palomino/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="mailto:nunopalomino@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
+ <img src="https://github-readme-stats.vercel.app/api?username=nunopalomino&show_icons=true&theme=tokyonight">
 </div>
