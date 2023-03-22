@@ -11,7 +11,7 @@ const nuno = {
     database: ["MongoDB", "PostgreSQL", "MySQL", "SQLite"],
     devops: ["Docker", "GitHub", "AWS"]
   },
-  learning: [".Net", "Python"],
+  learning: [".Net", "Python", "Java"],
   catchphrase: "A UFO party! :D"
 }
  ```
