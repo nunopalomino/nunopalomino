@@ -19,7 +19,7 @@ const nuno = {
  <img src="https://github-readme-stats.vercel.app/api?username=nunopalomino&show_icons=true&theme=tokyonight">
  
   
- <br>
+ <br> <br>
   
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
