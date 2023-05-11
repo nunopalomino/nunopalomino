@@ -12,7 +12,7 @@ const nuno = {
     devops: ["Docker", "GitHub", "AWS"]
   },
   learning: [".Net", "Python", "Java"],
-  catchphrase: "A UFO party! :D"
+  catchphrase: "I’m an early bird and I’m a night owl so I’m wise and I have worms."
 }
  ```
 
