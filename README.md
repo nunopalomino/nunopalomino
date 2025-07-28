@@ -4,15 +4,15 @@
  ```javascript
 
 const nuno = {
-  location: "Sorocaba, São Paulo, Brasil",
+  location: "Mogi-Mirim, São Paulo, Brasil",
   technologies: {
-    frontend: ["HTML", "CSS", "SASS", "JavaScript", "TypeScript", "ReactJS"],
-    backend: ["Express", "Nodejs", "Prisma"],
-    database: ["MongoDB", "PostgreSQL", "MySQL", "SQLite"],
-    devops: ["Docker", "GitHub", "AWS"]
+    frontend: ["HTML", "CSS", "JavaScript", "TypeScript", "React.js", "Next.js"],
+    backend: ["Node.js", "Python", "Java"],
+    database: ["MongoDB", "PostgreSQL", "MySQL"],
+    devops: ["Git", "GitHub", "Docker", "AWS"]
   },
-  learning: [".Net", "Python", "Java"],
-  catchphrase: "I’m an early bird and I’m a night owl so I’m wise and I have worms."
+  learning: ["PyTorch", "AWS SageMaker", "Apache Airflow"],
+  catchphrase: "I'm an early bird and I'm a night owl so I'm wise and I have worms."
 }
  ```
 
